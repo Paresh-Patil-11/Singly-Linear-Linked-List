@@ -59,7 +59,6 @@ class SinglyLinkedList:
             temp = temp.next
         return count
 
-# Tkinter GUI
 class GUI:
     def __init__(self, root):
         self.root = root
