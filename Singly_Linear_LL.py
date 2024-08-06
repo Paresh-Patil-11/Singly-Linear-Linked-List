@@ -2,7 +2,6 @@
 #code for singular linear linked list
 import tkinter as tk
 from tkinter import messagebox
-
 class Node:
     def __init__(self, data):
         self.data = data
